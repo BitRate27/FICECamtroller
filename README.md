@@ -1,4 +1,4 @@
-# FICECamtroller
+# FICE Camtroller
 Frustrated using the PTZ Optics software to run our weekly stream, I turned to the web. I found this great video by Churchfront https://www.youtube.com/watch?v=c4RHOwh5f5k showing how to get the best settings, and it helped tremendously. In it, Matt asks if anyone knows a better way. Well after diving into this for a few months, I came up with one.
 
 As Matt points out in the video, the current Focus, Image, Color and Exposure (FICE) settings are stored when you save a preset. When you recall a preset, those settings overwrite your current settings. This means that after you have spent time finding the best settings for your environment, when you recall a preset they get wiped out and replaced with the settings in the preset. The video shows you how to use the onscreen menu from the PTZOptics software to navigate the menus. These menus are like the menu on your tv monitor or projector, designed to be used with a simple remote control. When I saw this, I thought...there has to be a better way.

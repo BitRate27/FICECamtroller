@@ -27,7 +27,7 @@ After digesting the documentation of the commands, I set out to develop an App t
 7. Change the FICE settings for the camera using FICE Camtroller, PTZ Optics, or the PTZ Menu
 8. Select the Refresh button in FICE Camtroller to display the current settings
 9. Select the Download button in FICE Camtroller to save the settings to a local file
-   - On mac: /Users/[username]/Library/settings.json
+   - On mac: /Users/[username]/Library/FICE Camtroller/settings.json
    - On windows: %AppData%\FICE Camtroller\settings.json
   
 ### Fix a preset

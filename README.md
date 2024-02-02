@@ -39,4 +39,10 @@ After digesting the documentation of the commands, I set out to develop an App t
 If you want to use those same settings for the presets on another camera, then change the IP address in FICE Camtroller and repeat steps 10-13 for all the presets.
 
 
+## Benefits
+You may also choose to use FICE Camtroller as your main interface for adjusting FICE settings
+- Complete control over settings like White Balance, only available in PTZ Menu mode
+- Easier to navigate than PTZ Menu
+- Refresh button to see actual values stored in presets or values which may have been changed my PTZ Optics, PTZ Menu or another controller.
+- Ability to share FICE settings across cameras
     
